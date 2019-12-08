@@ -2,4 +2,4 @@
 *.class
 .vagrant
 *.swp
-
+*.log
